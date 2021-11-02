@@ -10,4 +10,4 @@ eleventyNavigation:
 ![Hypergallery](/static/img/hypergallery.svg)
 
 \
-A web3 gallery.
+A web3 gallery. Coming soon.
