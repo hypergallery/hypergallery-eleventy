@@ -7,9 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-
-
-![Hypergallery](/static/img/hg_twitter.png)
+![Hypergallery](/static/img/hypergallery.svg)
 
 \
 A web3 gallery.
